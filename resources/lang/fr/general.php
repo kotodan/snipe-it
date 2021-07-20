@@ -22,7 +22,7 @@
     'assets_available'		=> 'Articles disponibles',
     'audit'				    => 'Audit',
     'audit_report'			=> 'Journal d\'audit',
-    'assets'				=> 'Articles',
+    'assets'				=> 'articles',
     'avatar_delete'         => 'Supprimer l\'Avatar',
     'avatar_upload'         => 'Charger un Avatar',
     'back'      			=> 'Retour',
