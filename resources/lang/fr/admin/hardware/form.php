@@ -12,7 +12,7 @@ return array(
     'checkin_date'		=> 'Date de dissociation',
     'checkout_to'		=> 'Caisse à',
     'cost'				=> 'Coût d\'achat',
-    'create'			=> 'Créer des actifs',
+    'create'			=> 'Créer des articles',
     'date'				=> 'Date d\'achat',
     'depreciation'	    => 'Dépréciation',
     'depreciates_on'	=> 'Amortit sur',
