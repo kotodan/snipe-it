@@ -2,8 +2,8 @@
 
 return array(
     'about_manufacturers_title'    => 'A propos des fabricants',
-    'about_manufacturers_text'  => 'Les fabricants sont les entreprises qui créent vos actifs. Vous pouvez stocker ici des informations importantes sur les contacts de support, qui seront affichées sur les pages de détails de votre actif.',
-    'asset_manufacturers'	=> 'Fabricants d\'actif',
+    'about_manufacturers_text'  => 'Les fabricants sont les entreprises qui créent vos articles. Vous pouvez stocker ici des informations importantes sur les contacts de support, qui seront affichées sur les pages de détails de votre article.',
+    'asset_manufacturers'	=> 'Fabricants d\'article',
     'create'				=> 'Créer un fabricant',
     'id'   					=> 'ID',
     'name'      			=> 'Nom',

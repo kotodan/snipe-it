@@ -21,7 +21,7 @@ return array(
     'update'                => 'Mettre à jour le fournisseur',
     'url'                   => 'URL',
     'view'                  => 'Voir le fournisseur',
-    'view_assets_for'       => 'Voir les actifs pour',
+    'view_assets_for'       => 'Voir les articles pour',
     'zip'                   => 'Code postal',
 
 );

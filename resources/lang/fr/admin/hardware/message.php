@@ -5,7 +5,7 @@ return array(
     'undeployable' 		=> '<strong>Attention: </strong> Ce bien a été marqué non déployable.
                         Si ce statut a changé, veuillez l\'actualiser.',
     'does_not_exist' 	=> 'Ce bien n\'existe pas.',
-    'does_not_exist_or_not_requestable' => 'Cet actif n\'existe pas ou ne peux pas être réquisitionné.',
+    'does_not_exist_or_not_requestable' => 'Cet article n\'existe pas ou ne peux pas être réquisitionné.',
     'assoc_users'	 	=> 'Ce bien est marqué sorti par un utilisateur et ne peut être supprimé. Veuillez d\'abord cliquer sur Retour de Biens, et réessayer.',
 
     'create' => array(
@@ -20,13 +20,13 @@ return array(
     ),
 
     'restore' => array(
-        'error'   		=> 'L\'actif n\'a pas été restauré, veuillez réessayer',
-        'success' 		=> 'Actif restauré correctement.'
+        'error'   		=> 'L\'article n\'a pas été restauré, veuillez réessayer',
+        'success' 		=> 'Article restauré correctement.'
     ),
 
     'audit' => array(
-        'error'   		=> 'Audit des actifs n\'a pas réussi. Veuillez réessayer.',
-        'success' 		=> 'Audit des actifs consigné avec succès.'
+        'error'   		=> 'Audit des articles n\'a pas réussi. Veuillez réessayer.',
+        'success' 		=> 'Audit des articles consigné avec succès.'
     ),
 
 
@@ -54,7 +54,7 @@ return array(
     'delete' => array(
         'confirm'   	=> 'Etes-vous sûr de vouloir supprimer ce bien?',
         'error'   		=> 'Il y a eu un problème en supprimant ce bien. Veuillez réessayer.',
-        'nothing_updated'   => 'Aucun actif n\'a été sélectionné, donc rien n\'a été supprimé.',
+        'nothing_updated'   => 'Aucun article n\'a été sélectionné, donc rien n\'a été supprimé.',
         'success' 		=> 'Ce bien a été supprimé correctement.'
     ),
 

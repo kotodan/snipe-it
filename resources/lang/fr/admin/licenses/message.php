@@ -4,10 +4,10 @@ return array(
 
     'does_not_exist' => 'Cette catégorie n\'existe pas.',
     'user_does_not_exist' => 'L\'utilisateur n\'existe pas.',
-    'asset_does_not_exist' 	=> 'L\'actif que vous essayez d\'associer avec cette licence n\'existe pas.',
-    'owner_doesnt_match_asset' => 'L\'actif que vous essayez d\'associer avec cette licence est détenu par une autre personne que celle sélectionnée dans la liste déroulante.',
+    'asset_does_not_exist' 	=> 'L\'article que vous essayez d\'associer avec cette licence n\'existe pas.',
+    'owner_doesnt_match_asset' => 'L\'article que vous essayez d\'associer avec cette licence est détenu par une autre personne que celle sélectionnée dans la liste déroulante.',
     'assoc_users'	 => 'Cette catégorie est associée au moins à un modèle et ne peut être supprimée. Veuillez actualiser vos modèles pour ne plus référencer cette catégorie et réessayer.',
-    'select_asset_or_person' => 'Vous devez sélectionner un actif ou un utilisateur, mais pas les deux.',
+    'select_asset_or_person' => 'Vous devez sélectionner un article ou un utilisateur, mais pas les deux.',
     'not_found' => 'Licence introuvable',
 
 

@@ -25,7 +25,7 @@ return array(
     'password_confirm' 		=> 'Confirmer le mot de passe',
     'password' 				=> 'Mot de passe',
     'phone'  				=> 'Téléphone',
-    'show_current'          => 'Afficher les utilisateurs actifs',
+    'show_current'          => 'Afficher les utilisateurs articles',
     'show_deleted'          => 'Afficher les utilisateurs supprimés',
     'title' 				=> 'Titre',
 	'to_restore_them'		=> 'pour les restaurer.',

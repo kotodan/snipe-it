@@ -2,6 +2,6 @@
 
 return [
     'sent'	        => 'Le lien vers votre mot de passe a bien été envoyé!',
-    'user'			=> 'Aucun utilisateur actif correspondant trouvé avec ce courriel.',
+    'user'			=> 'Aucun utilisateur article correspondant trouvé avec ce courriel.',
 ];
 

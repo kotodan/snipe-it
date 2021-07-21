@@ -4,7 +4,7 @@
 return array(
     'activated_help_text' => 'Cet utilisateur peut se connecter',
     'activated_disabled_help_text' => 'Vous ne pouvez pas modifier l\'état de votre propre compte.',
-    'assets_user'       => 'Actifs associés avec :name',
+    'assets_user'       => 'Articles associés avec :name',
     'bulk_update_warn'	=> 'Vous êtes sur le point de modifier les propriétés de: user_count users. Veuillez noter que vous ne pouvez pas modifier vos propres attributs d\'utilisateur en utilisant ce formulaire et devez effectuer des modifications à votre propre utilisateur individuellement.',
     'bulk_update_help'	=> 'Ce formulaire vous permet de mettre à jour plusieurs utilisateurs à la fois. Remplissez uniquement les champs que vous devez modifier. Tous les champs laissés vides resteront inchangés.',
     'current_assets'    => 'Biens actuellement attribués à cet utilisateur',

@@ -2,7 +2,7 @@
 
 return array(
 
-    'asset_tag'   	=> 'Étiquette de l\'actif',
+    'asset_tag'   	=> 'Étiquette de l\'article',
     'asset_model'       => 'Modèle',
     'book_value'  	=> 'Valeur',
     'change' 		=> 'Associer/Libérer',

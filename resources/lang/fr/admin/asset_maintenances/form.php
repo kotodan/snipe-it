@@ -9,6 +9,6 @@
         'is_warranty'            => 'Garantie sur amélioration',
         'asset_maintenance_time' => 'Durée de l\'entretien (en jours)',
         'notes'                  => 'Notes',
-        'update'                 => 'Modification des types entretiens d\'actifs',
-        'create'                 => 'Création de type d\'entretien d\'actif'
+        'update'                 => 'Modification des types entretiens d\'articles',
+        'create'                 => 'Création de type d\'entretien d\'article'
     ];
