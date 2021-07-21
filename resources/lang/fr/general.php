@@ -47,7 +47,7 @@
 	'click_here'			=> 'Cliquez ici',
     'clear_selection'		=> 'Effacer la sélection',
     'companies'			    => 'structures',
-    'company'				=> 'structure',
+    'company'				=> 'structures',
     'component'			    => 'Composant',
     'components'			=> 'Composants',
 	'complete'				=> 'Terminé',
