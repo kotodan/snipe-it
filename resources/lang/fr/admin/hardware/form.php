@@ -33,7 +33,7 @@ return array(
     'qr'				=> 'Code QR',
     'requestable'		=> 'Les utilisateurs peuvent demander à cet actif',
     'select_statustype'	=> 'Choisissez le type de statut',
-    'serial'			=> 'Série ',
+    'serial'			=> 'Numero de série ',
     'status'			=> 'Statut',
     'tag'				=> 'Numéro d\'inventaire',
     'update'			=> 'Mise à jour de l\'actif',
