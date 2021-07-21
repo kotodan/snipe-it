@@ -1,7 +1,7 @@
 <?php
 
     return [
-        'asset_maintenance_type' => 'Type d\'entretien d\'actif',
+        'asset_maintenance_type' => 'Type d\'entretien d\'article',
         'title'                  => 'Titre',
         'start_date'             => 'Date de début',
         'completion_date'        => 'Date d\'achèvement',

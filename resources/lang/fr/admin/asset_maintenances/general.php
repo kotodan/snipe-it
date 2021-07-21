@@ -1,10 +1,10 @@
 <?php
 
     return [
-        'asset_maintenances' => 'Entretien d\'actifs',
-        'edit'               => 'Modification d\'entretiens d\'actifs',
-        'delete'             => 'Supprimer des entretiens d\'actif',
-        'view'               => 'Voir les détails de la maintenance d\'actif',
+        'asset_maintenances' => 'Entretien d\'article',
+        'edit'               => 'Modification d\'entretiens d\'articles',
+        'delete'             => 'Supprimer des entretiens d\'article',
+        'view'               => 'Voir les détails de la maintenance d\'article',
         'repair'             => 'Réparation',
         'maintenance'        => 'Entretien',
         'upgrade'            => 'Mise à niveau',
