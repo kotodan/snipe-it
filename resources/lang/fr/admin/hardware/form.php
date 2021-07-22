@@ -10,7 +10,7 @@ return array(
     'checkedout_to'		=> 'Extrait vers',
     'checkout_date'		=> 'Date d\'attribution',
     'checkin_date'		=> 'Date de dissociation',
-    'checkout_to'		=> 'Caisse à',
+    'checkout_to'		=> 'Détenteur',
     'cost'				=> 'Coût d\'achat',
     'create'			=> 'Créer des articles',
     'date'				=> 'Date d\'achat',
